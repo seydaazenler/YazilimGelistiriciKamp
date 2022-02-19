@@ -1,0 +1,14 @@
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.AssemblyReference.cache
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

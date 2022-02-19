@@ -1,0 +1,14 @@
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.AssemblyReference.cache
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\ŞeydaZenler\source\repos\YazılımGelistirmeKamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
