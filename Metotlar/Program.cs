@@ -40,7 +40,8 @@ namespace Metotlar
             }
 
             Console.WriteLine("--------Metotlar-------------");
-            //Instance --> Örnek
+            //Instance --> kapsülleme için örnek tanımlanmıştır
+
             //encapsulation (kapsülleme)
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
